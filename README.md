@@ -5,7 +5,7 @@ to a Cortex XSOAR Generic Webhook receiver (Port 8000).
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Install the Script on the Wazuh Manager
 
